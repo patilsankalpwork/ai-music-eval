@@ -76,3 +76,16 @@ P063,Soul,"Genre: Soul. Tempo: 78 BPM. Vintage soul feel with organ chords, rela
 P064,Metal,"Genre: Metal. Tempo: 150 BPM. Heavy distorted guitars, double-kick drums, aggressive riffing, and deep bass.",150,"dist_guitar;double_kick;bass","aggressive","verse-chorus","no"
 P065,Metal,"Genre: Metal. Tempo: 160 BPM. Fast thrash-metal groove with sharp riffs, tight drums, and a raw energetic feel.",160,"thrash_guitar;drums;bass","intense","loop","no"
 P066,Metal,"Genre: Metal. Tempo: 140 BPM. Melodic-metal style with harmonized guitars, punchy drums, and uplifting progression.",140,"melodic_guitar;drums;bass","uplifting","verse-chorus","no"
+P067,Blues,"Genre: Blues. Tempo: 92 BPM. Soulful electric guitar licks, steady shuffle drums, warm bassline, and expressive bends.",92,"electric_guitar;shuffle_drums;bass","soulful","verse-chorus","no"
+P068,Blues,"Genre: Blues. Tempo: 85 BPM. Slow emotional blues with muted guitar, brushed drums, and vintage-style piano chords.",85,"guitar;brushed_drums;piano","emotional","slow","no"
+P069,Blues,"Genre: Blues. Tempo: 100 BPM. Upbeat blues shuffle with walking bass, bright organ fills, and groovy guitar riffs.",100,"walking_bass;organ;guitar;drums","groovy","loop","no"
+
+P070,Folk,"Genre: Folk. Tempo: 75 BPM. Fingerpicked acoustic guitar, light shaker, soft vocals, and warm pads for a natural storytelling feel.",75,"fingerpick_guitar;shaker;vocals;pad","warm","verse-chorus","yes"
+P071,Folk,"Genre: Folk. Tempo: 82 BPM. Gentle strummed guitar, soft percussion, mandolin plucks, and open airy texture.",82,"strum_guitar;soft_perc;mandolin","gentle","loop","no"
+P072,Folk,"Genre: Folk. Tempo: 90 BPM. Upbeat folk groove with ukulele, hand percussion, bright claps, and simple bass.",90,"ukulele;hand_perc;claps;bass","uplifting","verse-chorus","no"
+
+P073,AmbientElectronic,"Genre: Ambient Electronic. No strict BPM. Warm pads, soft pulses, granular textures, and subtle electronic noise to create an evolving soundscape.",,"pad;granular;soft_pulse;noise","calm","atmospheric","no"
+P074,AmbientElectronic,"Genre: Ambient Electronic. Slow minimal electronic ambiance with evolving synth drones and gentle modulated plucks.",,"synth_drone;modulated_pluck;texture","minimal","long_form","no"
+P075,AmbientElectronic,"Genre: Ambient Electronic. Meditative vibes with airy pads, light rhythmic ticking, and lush electronic layers.",,"pad;ticking;lush_layers","meditative","loop","no"
+
+P076,Dubstep,"Genre: Dubstep. Tempo: 140 BPM. Heavy wobble bass, sharp snare hits, atmospheric pads, and riser effects for a modern dubstep drop.",140,"wobble_bass;snare;pad;riser","aggressive","drop","no"
