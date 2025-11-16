@@ -5,3 +5,16 @@ P003,Pop,"Genre: Pop. Tempo: 128 BPM. Instruments: club-ready synths, sidechain 
 P004,Ambient,"Genre: Ambient. Create soft evolving pads with minimal rhythm. Focus on atmosphere and slow movement. No percussion. Sound should feel floating and meditative.",,"pad;drone;texture","calm","atmospheric","no"
 P005,Ambient,"Genre: Ambient. Slow-moving textures with warm analog synths and subtle noise layers. Avoid melody; focus on space and mood. Works as calm background ambiance.",,"analog_pad;noise;subtle_drone","warm","textural","no"
 P006,Ambient,"Genre: Ambient. Use long reverb-heavy tones, airy soundscapes, and gentle granular swells. No tempo or beats. Create an immersive sound bed.",,"reverb_pad;granular;soft_swells","airy","long_form","no"
+P007,HipHop,"Genre: HipHop. Tempo: 90 BPM. Classic boom-bap beat with dusty drums, vinyl crackle, mellow keys, and warm bassline. Keep it loopable and steady.",90,"kick;snare;hihat;keys;bass","laid-back","loop","no"
+P008,HipHop,"Genre: HipHop. Tempo: 140 BPM. Modern trap instrumental with heavy 808s, sharp hi-hats, sparse melodies, and atmospheric pads. Dark, cold vibe.",140,"808;trap_hihat;pad;lead","dark","trap_structure","no"
+P009,HipHop,"Genre: HipHop. Tempo: 100 BPM. Chill-hop with soft electric piano, relaxed drums, warm bass, and light textures. Suitable for background study.",100,"electric_piano;soft_drum;bass;texture","chill","loop","no"
+
+P010,Cinematic,"Genre: Cinematic. Tempo: 80 BPM. Dramatic orchestral bed with brass swells, string pulses, and deep percussion hits. Mood: intense and heroic.",80,"strings;brass;percussion;sub_hits","intense","build-rise-drop","no"
+P011,Cinematic,"Genre: Cinematic. Slow emotional score with soft piano, warm strings, and airy pads. No percussion. Mood: reflective and nostalgic.",,"piano;strings;pad","emotional","slow_movement","no"
+P012,Cinematic,"Genre: Cinematic. Suspenseful atmosphere with low drones, ticking percussion, and tension-building FX risers.",,"drone;ticking_perc;fx_risers","tense","tension_build","no"
+
+P013,EDM,"Genre: EDM. Tempo: 128 BPM. Festival-style drop with bright synth leads, punchy kick, and sidechained pads. Mood: energetic and uplifting.",128,"synth_lead;kick;pad;clap","energetic","build-drop-loop","no"
+P014,EDM,"Genre: EDM. Tempo: 124 BPM. Deep-house vibe with warm bass, soft chords, and groovy percussion. Chill but danceable.",124,"bass;chords;perc;pad","chill","loop","no"
+P015,EDM,"Genre: EDM. Tempo: 140 BPM. Hard-hitting big-room sound with aggressive leads and heavy drums. Mood: powerful and explosive.",140,"lead;drums;pad","powerful","drop-focused","no"
+
+P016,LoFi,"Genre: LoFi. Tempo: 85 BPM. Warm cassette-style beat with soft drums, Rhodes keys, vinyl crackle, and laid-back bass. Cozy and nostalgic.",85,"rhodes;soft_drum;vinyl_crackle;bass","nostalgic","loop","no"
