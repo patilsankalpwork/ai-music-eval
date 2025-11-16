@@ -53,3 +53,13 @@ P044,IndianFusion,"Genre: Indian Fusion. Tempo: 110 BPM. Upbeat fusion track wit
 P045,IndianFusion,"Genre: Indian Fusion. Tempo: 85 BPM. Ambient Indian fusion with tanpura drones, airy pads, and minimal percussion.",85,"tanpura;pad;perc","meditative","atmospheric","no"
 
 P046,Latin,"Genre: Latin. Tempo: 104 BPM. Rhythmic guitar, bouncy percussion, soft brass accents, and a warm dance groove.",104,"guitar;perc;brass","bouncy","verse-chorus","no"
+P047,Latin,"Genre: Latin. Tempo: 110 BPM. Energetic salsa-inspired rhythm with rhythmic piano montuno, congas, bass, and bright brass stabs.",110,"piano_montuno;congas;bass;brass","energetic","verse-chorus","no"
+P048,Latin,"Genre: Latin. Tempo: 100 BPM. Smooth bachata-style guitar, soft percussion, romantic pads, and mellow bass.",100,"guitar;soft_perc;pad;bass","romantic","loop","no"
+P049,Jazz,"Genre: Jazz. Tempo: 95 BPM. Upright bass, brushed drums, warm piano chords, and light sax phrases. Soft lounge vibe.",95,"upright_bass;brushed_drums;piano;sax","smooth","loop","no"
+P050,Jazz,"Genre: Jazz. Tempo: 88 BPM. Chill jazz trio mood with electric piano, subtle ride cymbal, and melodic bassline.",88,"electric_piano;ride_cymbal;bass","chill","loop","no"
+P051,Jazz,"Genre: Jazz. Tempo: 102 BPM. Swing-inspired groove with walking bass, muted trumpet, and warm room ambiance.",102,"walking_bass;muted_trumpet;drums","swing","verse-chorus","no"
+P052,Rock,"Genre: Rock. Tempo: 130 BPM. Driving electric guitars, punchy drums, gritty bass, and energetic rhythm patterns.",130,"electric_guitar;drums;bass","energetic","verse-chorus","no"
+P053,Rock,"Genre: Rock. Tempo: 140 BPM. Heavy guitars, powerful tom fills, aggressive riffs, and dark ambience.",140,"dist_guitar;tom_fills;bass;fx","aggressive","bridge-drop","no"
+P054,Rock,"Genre: Rock. Tempo: 128 BPM. Indie-rock vibe with clean guitars, relaxed drums, simple bassline, and uplifting atmosphere.",128,"clean_guitar;drums;bass","uplifting","verse-chorus","no"
+P055,Orchestral,"Genre: Orchestral. Tempo: 75 BPM. Warm string ensemble, emotional woodwinds, soft brass, and gentle percussion for storytelling.",75,"strings;woodwinds;brass;soft_perc","emotional","crescendo","no"
+P056,Orchestral,"Genre: Orchestral. Tempo: 90 BPM. Heroic arrangement with bold brass, rhythmic strings, and deep cinematic drums.",90,"brass;strings;cinematic_drums","heroic","build","no"
