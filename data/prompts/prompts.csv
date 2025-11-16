@@ -18,3 +18,13 @@ P014,EDM,"Genre: EDM. Tempo: 124 BPM. Deep-house vibe with warm bass, soft chord
 P015,EDM,"Genre: EDM. Tempo: 140 BPM. Hard-hitting big-room sound with aggressive leads and heavy drums. Mood: powerful and explosive.",140,"lead;drums;pad","powerful","drop-focused","no"
 
 P016,LoFi,"Genre: LoFi. Tempo: 85 BPM. Warm cassette-style beat with soft drums, Rhodes keys, vinyl crackle, and laid-back bass. Cozy and nostalgic.",85,"rhodes;soft_drum;vinyl_crackle;bass","nostalgic","loop","no"
+P017,LoFi,"Genre: LoFi. Tempo: 72 BPM. Dreamy Rhodes chords, soft hats, vinyl crackle, and gentle sub-bass. Cozy study loop with warm tape character.",72,"rhodes;hats;vinyl_crackle;sub_bass","dreamy","loop","no"
+P018,LoFi,"Genre: LoFi. Tempo: 88 BPM. Plucked guitar motif, mellow percussion, light tape saturation, and soft ambient pads. Relaxed and intimate.",88,"guitar_pluck;soft_perc;pad;TapeSat","relaxed","loop","no"
+P019,Trap,"Genre: Trap. Tempo: 150 BPM. Deep 808 foundation, crisp hat rolls, pitched plucks, and dark atmosphere. Minimal melodic elements.",150,"808;hat_roll;pluck;pad","dark","trap_structure","no"
+P020,Trap,"Genre: Trap. Tempo: 160 BPM. Aggressive 808 slides, sparse snares, distant vocal chops, and wide reverb tails. High-energy but spacey.",160,"808_slide;snare;vocal_chop;reverb","aggressive","loop","no"
+P021,Trap,"Genre: Trap. Tempo: 140 BPM. Melancholic keys, clean 808s, soft percussion, and airy pads for an emotional trap bed.",140,"keys;808;soft_perc;pad","emotional","trap_structure","no"
+P022,House,"Genre: House. Tempo: 124 BPM. Four-on-the-floor kick, warm bassline, swung hi-hats, bright piano stabs and a groovy loopable hook.",124,"kick;bass;hat;piano_stab","groovy","loop","no"
+P023,House,"Genre: House. Tempo: 120 BPM. Deep-house mood with filtered chords, rolling bass and light percussive shaker. Smooth and danceable.",120,"filtered_chords;rolling_bass;shaker","smooth","loop","no"
+P024,House,"Genre: House. Tempo: 126 BPM. Uplifting piano-driven house with sidechained pads, energetic clap layers and anthemic lead.",126,"piano;pad;clap;lead","uplifting","build-drop-loop","no"
+P025,DrumAndBass,"Genre: Drum & Bass. Tempo: 174 BPM. Fast breakbeats, sub-heavy bass, sharp stabs and atmospheric pads for high-energy scenes.",174,"breakbeat;sub_bass;stab;pad","energetic","drop_loop","no"
+P026,DrumAndBass,"Genre: Drum & Bass. Tempo: 170 BPM. Liquid-style flowing basslines, smooth pads, crisp snares, and jazzy chord hits—relaxed DnB.",170,"liquid_bass;pad;snares;jazzy_chords","smooth","flowing_loop","no"
