@@ -1,3 +1,4 @@
 prompt_id,genre,template,tempo_bpm,instruments,mood,structure,vocal
 P001,Pop,"Genre: Pop. Tempo: 120 BPM. Instruments: bright synth lead, punchy kick, snare, bass. Mood: upbeat and energetic. Structure: verse–chorus. Keep it radio-friendly.",120,"synth;kick;snare;bass","upbeat","verse-chorus","no"
 P002,Pop,"Genre: Pop. Tempo: 100 BPM. Instruments: acoustic guitar, soft pads, mellow bass. Mood: warm and intimate. Structure: verse–chorus with a short bridge.",100,"acoustic_guitar;pad;bass","warm","verse-chorus","yes"
+P003,Pop,"Genre: Pop. Tempo: 128 BPM. Instruments: club-ready synths, sidechain pads, big kick. Mood: euphoric. Structure: intro–build–drop loop suitable for energetic pop edits.",128,"synth;pad;kick","euphoric","intro-build-drop","no"
