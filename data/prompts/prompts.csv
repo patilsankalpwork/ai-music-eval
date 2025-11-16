@@ -102,3 +102,13 @@ P084,Ska,"Genre: Ska. Tempo: 165 BPM. Modern ska-punk vibe with distorted guitar
 
 P085,KPop,"Genre: K-Pop. Tempo: 128 BPM. Glossy synths, punchy drums, bright pop chords, and processed vocal chops. Energetic and polished.",128,"synth;drums;vocal_chop;chords","energetic","verse-chorus","yes"
 P086,KPop,"Genre: K-Pop. Tempo: 132 BPM. Dance-pop rhythm with tight percussion, catchy synth leads, and emotional chord progressions.",132,"percussion;lead_synth;chords","emotional","hook-bridge-hook","yes"
+P087,KPop,"Genre: K-Pop. Tempo: 126 BPM. Dance-pop groove with tight drums, bright chord stabs, catchy synth leads, and polished vocal layers.",126,"drums;chord_stabs;synth_lead;vocal_layers","catchy","verse-chorus","yes"
+P088,Country,"Genre: Country. Tempo: 90 BPM. Acoustic guitar strums, soft drums, warm bass, and emotional slide guitar.",90,"acoustic_guitar;soft_drums;bass;slide_guitar","emotional","verse-chorus","no"
+P089,Country,"Genre: Country. Tempo: 100 BPM. Upbeat modern country with bright guitar riffs, steady drums, and soft pads.",100,"guitar_riff;drums;pad","uplifting","verse-chorus","no"
+P090,Country,"Genre: Country. Tempo: 82 BPM. Slow heartfelt ballad with piano, acoustic guitar, and light percussion.",82,"piano;acoustic_guitar;light_perc","romantic","slow","no"
+P091,ElectroPop,"Genre: Electro-Pop. Tempo: 120 BPM. Punchy electro drums, shimmering synth chords, airy leads, and soft vocal pads.",120,"electro_drums;chords;lead;vocal_pad","shimmering","verse-chorus","yes"
+P092,ElectroPop,"Genre: Electro-Pop. Tempo: 115 BPM. Warm synth bass, glossy plucks, crisp percussion, and modern textures.",115,"synth_bass;pluck;perc","warm","loop","no"
+P093,ElectroPop,"Genre: Electro-Pop. Tempo: 125 BPM. Driving beat, catchy hook melody, polished synth layers, and upbeat vibe.",125,"drums;hook_melody;synth_layers","upbeat","hook-chorus","yes"
+P094,Chillstep,"Genre: Chillstep. Tempo: 140 BPM. Soft wobble bass, dreamy pads, melodic plucks, and relaxed half-time drums.",140,"soft_wobble;pad;pluck;drums","dreamy","half-time","no"
+P095,Chillstep,"Genre: Chillstep. Tempo: 136 BPM. Emotional chillstep with airy vocal echoes, smooth bass, and gentle rhythmic pulses.",136,"vocal_echo;bass;soft_pulse","emotional","loop","yes"
+P096,Chillstep,"Genre: Chillstep. Tempo: 138 BPM. Lush ambient pads, soft percussion, minimal wobble, and spacey textures. Relaxed and open.",138,"pad;soft_perc;light_wobble","airy","loop","no"
