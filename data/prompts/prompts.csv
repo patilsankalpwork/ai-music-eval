@@ -28,3 +28,15 @@ P023,House,"Genre: House. Tempo: 120 BPM. Deep-house mood with filtered chords, 
 P024,House,"Genre: House. Tempo: 126 BPM. Uplifting piano-driven house with sidechained pads, energetic clap layers and anthemic lead.",126,"piano;pad;clap;lead","uplifting","build-drop-loop","no"
 P025,DrumAndBass,"Genre: Drum & Bass. Tempo: 174 BPM. Fast breakbeats, sub-heavy bass, sharp stabs and atmospheric pads for high-energy scenes.",174,"breakbeat;sub_bass;stab;pad","energetic","drop_loop","no"
 P026,DrumAndBass,"Genre: Drum & Bass. Tempo: 170 BPM. Liquid-style flowing basslines, smooth pads, crisp snares, and jazzy chord hits—relaxed DnB.",170,"liquid_bass;pad;snares;jazzy_chords","smooth","flowing_loop","no"
+P027,DrumAndBass,"Genre: Drum & Bass. Tempo: 176 BPM. Aggressive neuro-style bass growls, punchy breaks, metallic FX, and tension-filled pads.",176,"neuro_bass;breakbeat;metallic_fx;pad","aggressive","drop_loop","no"
+P028,Techno,"Genre: Techno. Tempo: 130 BPM. Deep kick, hypnotic synth loop, dark percussive hits, and evolving textures. Minimal but driving.",130,"deep_kick;synth_loop;perc;texture","dark","loop","no"
+P029,Techno,"Genre: Techno. Tempo: 128 BPM. Rolling bassline, filtered noise swells, crisp hats, and a steady warehouse-style rhythm.",128,"rolling_bass;noise_swell;hat","energetic","loop","no"
+P030,Techno,"Genre: Techno. Tempo: 132 BPM. Industrial vibe with metallic hits, distorted percussion, and a pulsing synth bed.",132,"metal_perc;dist_kick;pulse_synth","industrial","loop","no"
+
+P031,Reggae,"Genre: Reggae. Tempo: 75 BPM. Classic offbeat guitar skanks, deep bass groove, relaxed drums, and warm organ chords.",75,"skank_guitar;bass;drums;organ","relaxed","loop","no"
+P032,Reggae,"Genre: Reggae. Tempo: 70 BPM. Smooth dub-style echo effects, sparse percussion, rolling bass, and airy pads.",70,"dub_fx;bass;perc;pad","chill","loop","no"
+P033,Reggae,"Genre: Reggae. Tempo: 78 BPM. Sunny reggae vibe with bright guitar, soft horns, and an upbeat rhythmic bounce.",78,"guitar;horn;drums;bass","uplifting","verse-chorus","no"
+
+P034,RnB,"Genre: RnB. Tempo: 92 BPM. Warm chords, soft drums, silky bass, and atmospheric vocal pads. Smooth and romantic.",92,"chords;soft_drum;silky_bass;vocal_pad","smooth","loop","yes"
+P035,RnB,"Genre: RnB. Tempo: 88 BPM. Chill late-night vibe with electric piano, snaps, sub bass, and lush reverb spaces.",88,"electric_piano;snaps;sub_bass;reverb","late-night","loop","yes"
+P036,RnB,"Genre: RnB. Tempo: 100 BPM. Modern uptempo RnB grooves with punchy drums, airy chords, and playful synth leads.",100,"drums;airy_chords;synth_lead","playful","verse-chorus","yes"
