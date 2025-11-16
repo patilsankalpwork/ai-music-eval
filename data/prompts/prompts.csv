@@ -89,3 +89,16 @@ P074,AmbientElectronic,"Genre: Ambient Electronic. Slow minimal electronic ambia
 P075,AmbientElectronic,"Genre: Ambient Electronic. Meditative vibes with airy pads, light rhythmic ticking, and lush electronic layers.",,"pad;ticking;lush_layers","meditative","loop","no"
 
 P076,Dubstep,"Genre: Dubstep. Tempo: 140 BPM. Heavy wobble bass, sharp snare hits, atmospheric pads, and riser effects for a modern dubstep drop.",140,"wobble_bass;snare;pad;riser","aggressive","drop","no"
+P077,Dubstep,"Genre: Dubstep. Tempo: 142 BPM. Modern melodic dubstep with soaring chords, bright leads, soft vocals, and emotional build-ups.",142,"chords;lead;vocal_chop;drums","emotional","build-drop","no"
+P078,Dubstep,"Genre: Dubstep. Tempo: 138 BPM. Dark, heavy riddim-style dubstep with repetitive wobble bass patterns and minimal melody.",138,"wobble_bass;minimal_drums;fx","dark","loop","no"
+
+P079,Afrobeats,"Genre: Afrobeats. Tempo: 105 BPM. Bouncy drums, warm guitar plucks, soft keys, and groovy bass. Uplifting and dance-friendly.",105,"perc;guitar_pluck;keys;bass","uplifting","loop","no"
+P080,Afrobeats,"Genre: Afrobeats. Tempo: 100 BPM. Smooth afrobeats vibe with muted chords, gentle percussion, and subtle vocal chops.",100,"muted_chords;perc;vocal_chop;bass","smooth","verse-chorus","yes"
+P081,Afrobeats,"Genre: Afrobeats. Tempo: 110 BPM. Minimal afrobeats production with shaker-heavy rhythm, airy pads, and bright guitars.",110,"shaker;pad;guitar;light_drums","bright","loop","no"
+
+P082,Ska,"Genre: Ska. Tempo: 160 BPM. Upbeat offbeat guitar skanks, punchy drums, brass hooks, and lively basslines. Energetic and fun.",160,"skank_guitar;brass;drums;bass","energetic","verse-chorus","no"
+P083,Ska,"Genre: Ska. Tempo: 150 BPM. Classic ska bounce with organ chords, upbeat guitar, and driving drums.",150,"organ;guitar;drums;bass","bouncy","loop","no"
+P084,Ska,"Genre: Ska. Tempo: 165 BPM. Modern ska-punk vibe with distorted guitars, strong snare hits, and bright horn accents.",165,"dist_guitar;brass;snare;drums","bold","verse-chorus","no"
+
+P085,KPop,"Genre: K-Pop. Tempo: 128 BPM. Glossy synths, punchy drums, bright pop chords, and processed vocal chops. Energetic and polished.",128,"synth;drums;vocal_chop;chords","energetic","verse-chorus","yes"
+P086,KPop,"Genre: K-Pop. Tempo: 132 BPM. Dance-pop rhythm with tight percussion, catchy synth leads, and emotional chord progressions.",132,"percussion;lead_synth;chords","emotional","hook-bridge-hook","yes"
