@@ -40,3 +40,16 @@ P033,Reggae,"Genre: Reggae. Tempo: 78 BPM. Sunny reggae vibe with bright guitar,
 P034,RnB,"Genre: RnB. Tempo: 92 BPM. Warm chords, soft drums, silky bass, and atmospheric vocal pads. Smooth and romantic.",92,"chords;soft_drum;silky_bass;vocal_pad","smooth","loop","yes"
 P035,RnB,"Genre: RnB. Tempo: 88 BPM. Chill late-night vibe with electric piano, snaps, sub bass, and lush reverb spaces.",88,"electric_piano;snaps;sub_bass;reverb","late-night","loop","yes"
 P036,RnB,"Genre: RnB. Tempo: 100 BPM. Modern uptempo RnB grooves with punchy drums, airy chords, and playful synth leads.",100,"drums;airy_chords;synth_lead","playful","verse-chorus","yes"
+P037,Synthwave,"Genre: Synthwave. Tempo: 100 BPM. Retro 80s vibe with analog synth bass, warm pads, snappy drums, and nostalgic arpeggios.",100,"analog_bass;pad;snappy_drums;arp","nostalgic","loop","no"
+P038,Synthwave,"Genre: Synthwave. Tempo: 90 BPM. Dreamy outrun-style chords, soft gated reverb, and neon-style lead melodies.",90,"chords;gated_reverb;lead","dreamy","verse-chorus","no"
+P039,Synthwave,"Genre: Synthwave. Tempo: 110 BPM. Darkwave feel with heavy bass pulses, eerie synth pads, and cinematic retro hits.",110,"bass_pulse;pad;retro_hit","dark","loop","no"
+
+P040,Acoustic,"Genre: Acoustic. Tempo: 92 BPM. Warm acoustic guitar strums, soft percussion, subtle bass, and natural room tone.",92,"acoustic_guitar;soft_perc;bass","warm","verse-chorus","no"
+P041,Acoustic,"Genre: Acoustic. Tempo: 80 BPM. Fingerpicked guitar, light shaker, mellow piano, and organic textures.",80,"fingerpick_guitar;shaker;piano","gentle","loop","no"
+P042,Acoustic,"Genre: Acoustic. Tempo: 70 BPM. Slow intimate acoustic piece with soft pads, brushed drums, and emotional warmth.",70,"acoustic_guitar;brushed_drums;pad","intimate","slow","no"
+
+P043,IndianFusion,"Genre: Indian Fusion. Tempo: 95 BPM. Blend tabla grooves, sitar motifs, modern pads, and warm bass textures.",95,"tabla;sitar;pad;bass","fusion","loop","no"
+P044,IndianFusion,"Genre: Indian Fusion. Tempo: 110 BPM. Upbeat fusion track with dholak rhythms, flute lead, and electronic atmospheres.",110,"dholak;flute;pad","uplifting","verse-chorus","no"
+P045,IndianFusion,"Genre: Indian Fusion. Tempo: 85 BPM. Ambient Indian fusion with tanpura drones, airy pads, and minimal percussion.",85,"tanpura;pad;perc","meditative","atmospheric","no"
+
+P046,Latin,"Genre: Latin. Tempo: 104 BPM. Rhythmic guitar, bouncy percussion, soft brass accents, and a warm dance groove.",104,"guitar;perc;brass","bouncy","verse-chorus","no"
