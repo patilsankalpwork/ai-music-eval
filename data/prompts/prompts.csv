@@ -385,3 +385,84 @@ P306,Hyperpop,"Genre: Hyperpop. Tempo: 165 BPM. Ultra-bright synth leads, bitcru
 
 P307,EpicTrailer,"Genre: Epic Trailer. Tempo: 128 BPM. Heavy drums, massive brass hits, dark pulses, and rising cinematic tension.",128,"drums;brass;pulse;fx","epic","build","no"
 P308,EpicTrailer,"Genre: Epic Trailer. Tempo: 140 BPM. Hybrid trailer sound with choir accents, deep impacts, sharp risers, and huge orchestral energy.",140,"choir;impact;rise;strings","dramatic","build-drop","no"
+P309,EpicTrailer,"Genre: Epic Trailer. Tempo: 132 BPM. Thunderous percussion, soaring brass layers, intense string ostinatos, and massive cinematic build-ups for a high-impact trailer moment.",132,"perc;brass;strings;fx","intense","build-drop","no"
+
+P310,FutureBassPop,"Genre: Future Bass Pop. Tempo: 150 BPM. Bright chord stacks, emotional vocal chops, sidechained pads, and energetic drop transitions.",150,"chords;vocal_chop;pad;fx","uplifting","drop","yes"
+P311,FutureBassPop,"Genre: Future Bass Pop. Tempo: 144 BPM. Warm filtered chords, sparkly leads, airy atmospheres, and upbeat festival-style rhythm.",144,"filtered_chords;lead;pad","sparkly","verse-chorus","yes"
+P312,FutureBassPop,"Genre: Future Bass Pop. Tempo: 148 BPM. Melodic future bass groove with lush supersaws, clean drums, and bright synth flourishes.",148,"supersaw;drums;lead","melodic","loop","no"
+
+P313,ElectroDisco,"Genre: Electro Disco. Tempo: 122 BPM. Funky basslines, shimmering disco chords, crisp electronic drums, and retro-futuristic textures.",122,"bass;chords;drums;fx","funky","verse-chorus","no"
+P314,ElectroDisco,"Genre: Electro Disco. Tempo: 118 BPM. Bright synth arps, groovy guitar licks, uplifting drums, and polished disco energy.",118,"arp;guitar;drums","bright","loop","no"
+P315,ElectroDisco,"Genre: Electro Disco. Tempo: 125 BPM. Energetic nu-disco feel with rhythmic claps, warm pads, and catchy melodic hooks.",125,"clap;pad;hook","energetic","chorus","no"
+
+P316,BaroqueStrings,"Genre: Baroque Strings. Tempo: 78 BPM. Harpsichord patterns, expressive string ensembles, light chamber percussion, and classical ornamentation.",78,"harpsichord;strings;perc","classical","sectional","no"
+P317,BaroqueStrings,"Genre: Baroque Strings. Tempo: 72 BPM. Elegant contrapuntal string writing with soft cello movement and delicate violin melodies.",72,"strings;cello;violin","elegant","loop","no"
+P318,BaroqueStrings,"Genre: Baroque Strings. Tempo: 82 BPM. Ornamental string flourishes, steady harmonic motion, and warm chamber resonance.",82,"strings;resonance;melody","ornamental","verse-chorus","no"
+
+P319,SynthChill,"Genre: Synth Chill. Tempo: 100 BPM. Soft analog pads, gentle pluck melodies, warm bass, and relaxed electronic percussion.",100,"pad;pluck;bass;perc","calm","loop","no"
+P320,SynthChill,"Genre: Synth Chill. Tempo: 94 BPM. Lush ambient pads, soft retro synth leads, gentle percussive ticks, and warm analog bass.",94,"pad;lead;perc;bass","lush","loop","no"
+P321,SynthChill,"Genre: Synth Chill. Tempo: 98 BPM. Dreamy poly-synth chords, filtered textures, smooth rhythmic pulses, and airy stereo ambience.",98,"chords;texture;pulse;ambience","dreamy","loop","no"
+
+P322,ElectroTrap,"Genre: Electro Trap. Tempo: 150 BPM. Heavy 808s, sharp snares, robotic synth leads, and glitch-infused electronic textures.",150,"808;snare;lead;glitch","aggressive","drop","no"
+P323,ElectroTrap,"Genre: Electro Trap. Tempo: 145 BPM. Dark synth bass, syncopated hi-hats, cinematic risers, and high-energy trap drums.",145,"bass;hihat;drums;fx","dark","build-drop","no"
+P324,ElectroTrap,"Genre: Electro Trap. Tempo: 152 BPM. Melodic trap fusion with atmospheric pads, crisp hats, and punchy electronic kicks.",152,"pad;hihat;kick;melody","melodic","loop","yes"
+
+P325,AmbientGuitar,"Genre: Ambient Guitar. Tempo: 75 BPM. Reverb-heavy electric guitar swells, soft background pads, and slow evolving harmonic space.",75,"guitar;pad;reverb","ambient","long_form","no"
+P326,AmbientGuitar,"Genre: Ambient Guitar. Tempo: 82 BPM. Clean guitar delay textures, warm resonant drones, and minimal rhythmic elements.",82,"guitar_delay;drone;texture","warm","loop","no"
+P327,AmbientGuitar,"Genre: Ambient Guitar. Tempo: 78 BPM. Soft shimmer guitars, atmospheric pads, low ambient pulses, and wide stereo space.",78,"guitar_shimmer;pad;pulse","shimmering","loop","no"
+
+P328,ElectroLatin,"Genre: Electro Latin. Tempo: 112 BPM. Latin percussion grooves, bright synth plucks, warm bass, and electronic dance rhythms.",112,"perc;pluck;bass;drums","vibrant","verse-chorus","no"
+P329,ElectroLatin,"Genre: Electro Latin. Tempo: 108 BPM. Rhythmic guitar patterns, airy pads, digital percussion, and smooth tropical motion.",108,"guitar;pad;perc","tropical","loop","no"
+P330,ElectroLatin,"Genre: Electro Latin. Tempo: 114 BPM. Bright marimba plucks, syncopated Latin drum patterns, groovy electronic bass, and energetic dance textures.",114,"marimba;drums;bass;fx","energetic","verse-chorus","no"
+
+P331,AtmosphericDnB,"Genre: Atmospheric Drum & Bass. Tempo: 172 BPM. Soft breakbeats, airy pads, deep sub textures, and floating vocals.",172,"breakbeat;pad;sub;vocal","floating","loop","yes"
+P332,AtmosphericDnB,"Genre: Atmospheric Drum & Bass. Tempo: 176 BPM. Dreamlike synth washes, light percussion, rolling bass, and uplifting ambience.",176,"synth;perc;bass;ambience","uplifting","loop","no"
+P333,AtmosphericDnB,"Genre: Atmospheric Drum & Bass. Tempo: 170 BPM. Delicate piano motifs, clean breaks, warm atmospheric beds, and subtle melodic accents.",170,"piano;break;pad;melody","warm","loop","yes"
+
+P334,SynthOpera,"Genre: Synth Opera. Tempo: 82 BPM. Operatic vocal pads blended with cinematic synths, resonant basslines, and minimal percussion.",82,"vocal_pad;synth;bass","dramatic","long_form","yes"
+P335,SynthOpera,"Genre: Synth Opera. Tempo: 88 BPM. Expansive synth choirs, soaring melodic leads, orchestral-inspired textures, and slow emotional movement.",88,"choir;synth;lead","expansive","slow","yes"
+P336,SynthOpera,"Genre: Synth Opera. Tempo: 92 BPM. Hybrid operatic-synth fusion with deep reverb, expressive vocal swells, and warm evolving pads.",92,"vocals;pad;reverb","emotional","sectional","no"
+
+P337,AltIndiePop,"Genre: Alt Indie Pop. Tempo: 110 BPM. Clean indie guitars, warm synth backdrops, tight drums, and catchy alt-pop melodies.",110,"guitar;synth;drums;melody","catchy","verse-chorus","yes"
+P338,AltIndiePop,"Genre: Alt Indie Pop. Tempo: 105 BPM. Dreamy chord progressions, tape-textured drums, soft vocals, and mellow indie atmosphere.",105,"chords;drums;vocals","dreamy","loop","yes"
+P339,AltIndiePop,"Genre: Alt Indie Pop. Tempo: 115 BPM. Confident indie-pop groove with rhythmic guitar chops, warm bass, and crisp percussion.",115,"guitar;bass;perc","confident","verse-chorus","no"
+
+P340,NeoClassical,"Genre: Neo-Classical. Tempo: 78 BPM. Soft felt piano, warm string beds, and gentle chamber textures with emotional harmonic motion.",78,"piano;strings;texture","emotional","sectional","yes"
+P341,NeoClassical,"Genre: Neo-Classical. Tempo: 72 BPM. Intimate solo piano blended with light orchestral swells and minimal atmospheric layers.",72,"piano;strings;pad","intimate","slow","yes"
+P342,NeoClassical,"Genre: Neo-Classical. Tempo: 84 BPM. Expressive piano lines, evolving string harmonies, and cinematic resonance.",84,"piano;strings;reverb","expressive","verse-chorus","no"
+
+P343,IndieFolk,"Genre: Indie Folk. Tempo: 102 BPM. Warm acoustic guitars, soft shakers, cozy vocal harmonies, and organic folk textures.",102,"guitar;shaker;vocals","cozy","verse-chorus","yes"
+P344,IndieFolk,"Genre: Indie Folk. Tempo: 95 BPM. Gentle fingerpicking, warm upright bass, subtle drums, and pastoral harmonic colors.",95,"guitar;bass;drums","pastoral","loop","no"
+P345,IndieFolk,"Genre: Indie Folk. Tempo: 108 BPM. Upbeat folk feel with rhythmic acoustic strums, tambourine accents, and bright melodic lines.",108,"guitar;perc;melody","bright","verse-chorus","yes"
+
+P346,SynthWaveRock,"Genre: Synthwave Rock. Tempo: 120 BPM. Retro synth chords, electric guitar leads, punchy drums, and 80s-inspired cinematic drive.",120,"synth;guitar;drums","retro","verse-chorus","no"
+P347,SynthWaveRock,"Genre: Synthwave Rock. Tempo: 115 BPM. Warm analog pads, neon guitar riffs, and steady rock-pattern drums.",115,"pad;guitar;drums","neon","loop","no"
+P348,SynthWaveRock,"Genre: Synthwave Rock. Tempo: 124 BPM. Driving bass arps, gated reverb snares, and dramatic synth-guitar fusion energy.",124,"bass_arp;snare;guitar","dramatic","hook","no"
+
+P349,ChoirAmbient,"Genre: Choir Ambient. No strict tempo. Ethereal choir washes, soft reverb halos, airy pads, and meditative harmonic clouds.",,"choir;pad;reverb;texture","ethereal","long_form","yes"
+P350,ChoirAmbient,"Genre: Choir Ambient. No strict tempo. Soft evolving choir pads, warm harmonic swells, airy reverb layers, and floating meditative textures.",,"choir_pad;harmonic_swells;reverb;texture","warm","long_form","yes"
+P351,ChoirAmbient,"Genre: Choir Ambient. No strict tempo. Deep choral drones, distant vowel clusters, shimmering overtone pads, and cathedral-like ambience.",,"drone;vowel_cluster;overtone;ambience","cathedral","long_form","yes"
+
+P352,MinimalTechno,"Genre: Minimal Techno. Tempo: 124 BPM. Deep kick, sparse percussion, evolving filtered textures, and hypnotic rhythmic movement.",124,"kick;perc;texture","hypnotic","loop","no"
+P353,MinimalTechno,"Genre: Minimal Techno. Tempo: 126 BPM. Clean micro-groove patterns, warm sub pulses, and subtle shifting tonal elements.",126,"microgroove;sub_bass;fx","subtle","loop","no"
+P354,MinimalTechno,"Genre: Minimal Techno. Tempo: 123 BPM. Dry percussion clicks, resonant synth stabs, and evolving minimal club atmosphere.",123,"perc;stab;fx","minimal","loop","no"
+
+P355,IndieElectronic,"Genre: Indie Electronic. Tempo: 112 BPM. Dreamy guitar layers blended with soft synth pads, light percussion, and warm melodic phrasing.",112,"guitar;pad;perc;melody","dreamy","verse-chorus","yes"
+P356,IndieElectronic,"Genre: Indie Electronic. Tempo: 108 BPM. Retro keys, dusty percussion, gentle bass, and hazy electronic textures.",108,"keys;perc;bass;texture","hazy","loop","yes"
+P357,IndieElectronic,"Genre: Indie Electronic. Tempo: 115 BPM. Bright plucks, rhythmic guitars, and warm pads with modern indie-pop energy.",115,"pluck;guitar;pad","bright","verse-chorus","no"
+
+P358,WorldPercussion,"Genre: World Percussion. Tempo: 104 BPM. Layered hand drums, natural shakers, metallic accents, and acoustic global rhythms.",104,"hand_drums;shaker;metal_hits","organic","loop","no"
+P359,WorldPercussion,"Genre: World Percussion. Tempo: 98 BPM. Deep resonant frame drums, wooden percussion, light bells, and natural ambience.",98,"frame_drum;wood_perc;bell","earthy","loop","no"
+P360,WorldPercussion,"Genre: World Percussion. Tempo: 120 BPM. Energetic ensemble grooves with layered congas, djembes, claves, and organic rhythmic movement.",120,"conga;djembe;clave","energetic","verse-chorus","no"
+
+P361,FuturisticPop,"Genre: Futuristic Pop. Tempo: 128 BPM. Bright robotic synth leads, polished pop drums, airy backing pads, and modern digital textures.",128,"lead;drums;pad;fx","modern","verse-chorus","yes"
+P362,FuturisticPop,"Genre: Futuristic Pop. Tempo: 122 BPM. Smooth vocoder harmonies, atmospheric plucks, glittery effects, and futuristic pop groove.",122,"vocoder;pluck;fx","glittery","loop","yes"
+P363,FuturisticPop,"Genre: Futuristic Pop. Tempo: 130 BPM. Punchy electronic drums, hyper-bright synth hooks, filtered chord lifts, and uplifting pop energy.",130,"drums;lead;chords","uplifting","chorus","no"
+
+P364,ChillR&B,"Genre: Chill R&B. Tempo: 88 BPM. Warm electric piano, soft drums, soulful vocal chops, and deep smooth bass.",88,"keys;drums;vocal_chop;bass","smooth","verse-chorus","yes"
+P365,ChillR&B,"Genre: Chill R&B. Tempo: 82 BPM. Gentle pads, mellow guitar phrases, filtered clap grooves, and emotional nighttime vibe.",82,"pad;guitar;clap","emotional","loop","yes"
+P366,ChillR&B,"Genre: Chill R&B. Tempo: 90 BPM. Clean R&B percussion, silky synth chords, warm subs, and atmospheric vocal textures.",90,"perc;chords;sub;vocals","silky","hook","yes"
+
+P367,RetroGamewave,"Genre: Retro Gamewave. Tempo: 125 BPM. 8-bit arps, nostalgic chiptune leads, punchy retro drums, and energetic pixel-style melodies.",125,"chiptune;arp;drums","nostalgic","loop","no"
+P368,RetroGamewave,"Genre: Retro Gamewave. Tempo: 132 BPM. Classic game-inspired pulse patterns, bright synth blips, and upbeat chip-melodic accents.",132,"pulse;blip;melody","playful","loop","no"
+P369,RetroGamewave,"Genre: Retro Gamewave. Tempo: 118 BPM. Soft retro pads, 8-bit drum kits, catchy saw leads, and vintage arcade atmosphere.",118,"pad;drums;lead","vintage","loop","no"
