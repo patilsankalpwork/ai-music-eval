@@ -304,6 +304,7 @@ P243,ElectroBounce,"Genre: Electro Bounce. Tempo: 126 BPM. Clean basslines, sync
 P244,WorldFusion,"Genre: World Fusion. Tempo: 100 BPM. Blend of global percussion, airy pads, ethnic flutes, and modern electronic elements.",100,"perc;pad;flute","global","verse-chorus","no"
 P245,WorldFusion,"Genre: World Fusion. Tempo: 110 BPM. Organic textures with African drums, ambient synths, and melodic world-instrument phrases.",110,"afro_drums;ambient_pad;melody","organic","loop","no"
 P246,WorldFusion,"Genre: World Fusion. Tempo: 95 BPM. Melodic fusion of eastern strings, atmospheric pads, soft electronics, and gentle percussion.",95,"strings;pad;perc","melodic","loop","no"
+
 P247,SpaceRock,"Genre: Space Rock. Tempo: 125 BPM. Atmospheric guitars, cosmic synth pads, steady rock drums, and spacious delays.",125,"guitar;pad;drums;delay","cosmic","verse-chorus","no"
 P248,SpaceRock,"Genre: Space Rock. Tempo: 118 BPM. Dreamy lead guitar, warm analog keys, soft percussion, and floating textures.",118,"lead_guitar;keys;perc","dreamy","loop","no"
 P249,SpaceRock,"Genre: Space Rock. Tempo: 130 BPM. Heavy space-rock fusion with distorted guitars, deep bass, and sci-fi synth layers.",130,"dist_guitar;bass;pad","heavy","loop","no"
@@ -359,6 +360,7 @@ P285,ElectroFunk,"Genre: Electro Funk. Tempo: 115 BPM. High-energy funk blend wi
 P286,SymphonicMetal,"Genre: Symphonic Metal. Tempo: 150 BPM. Heavy guitars, orchestral strings, powerful brass, and dramatic choir accents.",150,"guitar;strings;brass;choir","epic","verse-chorus","no"
 P287,SymphonicMetal,"Genre: Symphonic Metal. Tempo: 152 BPM. Fast orchestral metal blend with rapid string ostinatos, heavy double-kick drums, and soaring lead guitar lines.",152,"strings;double_kick;guitar_lead;choir","intense","verse-chorus","no"
 P288,SymphonicMetal,"Genre: Symphonic Metal. Tempo: 145 BPM. Dark cinematic-metal fusion with deep choir layers, brass swells, chugging rhythm guitars, and dramatic percussion.",145,"choir;brass;guitar_rhythm;perc","dark","build","no"
+
 P289,ElectroSoul,"Genre: Electro Soul. Tempo: 96 BPM. Smooth soulful chords blended with electronic drums, warm basslines, and soft synth leads.",96,"chords;drums;bass;lead","smooth","verse-chorus","yes"
 P290,ElectroSoul,"Genre: Electro Soul. Tempo: 102 BPM. Dreamy electric keys, mellow vocal layers, airy pads, and groovy rhythmic phrasing.",102,"keys;vocals;pad","dreamy","loop","yes"
 P291,ElectroSoul,"Genre: Electro Soul. Tempo: 98 BPM. Clean percussion, silky chord stacks, deep sub-bass, and light melodic touches.",98,"perc;chords;sub_bass;melody","silky","loop","yes"
@@ -466,3 +468,108 @@ P366,ChillR&B,"Genre: Chill R&B. Tempo: 90 BPM. Clean R&B percussion, silky synt
 P367,RetroGamewave,"Genre: Retro Gamewave. Tempo: 125 BPM. 8-bit arps, nostalgic chiptune leads, punchy retro drums, and energetic pixel-style melodies.",125,"chiptune;arp;drums","nostalgic","loop","no"
 P368,RetroGamewave,"Genre: Retro Gamewave. Tempo: 132 BPM. Classic game-inspired pulse patterns, bright synth blips, and upbeat chip-melodic accents.",132,"pulse;blip;melody","playful","loop","no"
 P369,RetroGamewave,"Genre: Retro Gamewave. Tempo: 118 BPM. Soft retro pads, 8-bit drum kits, catchy saw leads, and vintage arcade atmosphere.",118,"pad;drums;lead","vintage","loop","no"
+
+P370,AndesFolk,"Genre: Andes Folk. Tempo: 96 BPM. Pan flutes, charango strums, light hand percussion, and warm mountain-folk harmonies.",96,"pan_flute;charango;perc;harmonies","uplifting","verse-chorus","no"
+P371,AndesFolk,"Genre: Andes Folk. Tempo: 88 BPM. Breath flute melodies, soft wooden percussion, airy drones, and gentle acoustic strums.",88,"flute;wood_perc;drone;guitar","calm","loop","no"
+P372,AndesFolk,"Genre: Andes Folk. Tempo: 102 BPM. Energetic folk rhythm with rhythmic plucked strings, rustic drums, and bright traditional melodies.",102,"pluck;drums;melody","energetic","verse-chorus","no"
+
+P373,SufiAmbient,"Genre: Sufi Ambient. Tempo: 72 BPM. Mystical vocal drones, airy pads, frame drums, and deep meditative harmonic swells.",72,"vocal_drone;pad;frame_drum","spiritual","long_form","yes"
+P374,SufiAmbient,"Genre: Sufi Ambient. Tempo: 68 BPM. Breath-chant textures, soft reverb, tanpura-like drones, and gentle ambient motion.",68,"chant;reverb;drone","sacred","slow","yes"
+P375,SufiAmbient,"Genre: Sufi Ambient. Tempo: 80 BPM. Emotional vocal phrases blended with atmospheric synth beds and organic rhythmic pulses.",80,"vocal;pad;pulse","emotional","sectional","yes"
+
+P376,ElectroCarnatic,"Genre: Electro-Carnatic. Tempo: 118 BPM. Carnatic vocal chops, mridangam-inspired percussion, bright synth leads, and hybrid rhythmic patterns.",118,"vocal_chop;perc;lead","hybrid","loop","no"
+P377,ElectroCarnatic,"Genre: Electro-Carnatic. Tempo: 124 BPM. Veena-style plucks, electronic bass pulses, and intricate Indian rhythmic sequencing.",124,"pluck;bass;pulse","classical-fusion","verse-chorus","no"
+P378,ElectroCarnatic,"Genre: Electro-Carnatic. Tempo: 110 BPM. Ambient ragas, filtered pads, electronic tabla grooves, and evolving melodic arcs.",110,"raga;pad;tabla","meditative","long_form","no"
+
+P379,DesertBlues,"Genre: Desert Blues. Tempo: 104 BPM. Saharan guitar riffs, hand percussion, warm vocal textures, and earthy desert groove.",104,"guitar;perc;vocals","earthy","verse-chorus","no"
+P380,DesertBlues,"Genre: Desert Blues. Tempo: 98 BPM. Hypnotic pentatonic riffs, deep bass drones, and spacious, sandy ambience.",98,"riff;bass_drone;ambience","hypnotic","loop","no"
+P381,DesertBlues,"Genre: Desert Blues. Tempo: 112 BPM. Upbeat desert swing with rhythmic claps, resonant guitars, and call-response phrasing.",112,"clap;guitar;vocals","swinging","chorus","no"
+
+P382,NeoHarlemJazz,"Genre: Neo Harlem Jazz. Tempo: 128 BPM. Swing-inspired drums, bright brass lines, upright bass, and modern jazz-fusion textures.",128,"drums;brass;bass","swing","verse-chorus","no"
+P383,NeoHarlemJazz,"Genre: Neo Harlem Jazz. Tempo: 118 BPM. Smooth piano comping, brushed percussion, sax riffs, and warm harmonic color.",118,"piano;perc;sax","smooth","loop","no"
+P384,NeoHarlemJazz,"Genre: Neo Harlem Jazz. Tempo: 132 BPM. Energetic big-band inspired rhythms, modern synth pads, and bold melodic phrasing.",132,"brass;pad;melody","energetic","hook","no"
+
+P385,GlacialAmbient,"Genre: Glacial Ambient. No strict tempo. Cold drones, frozen pads, crystalline textures, and slow evolving icy atmospheres.",,"drone;pad;texture","cold","long_form","yes"
+P386,GlacialAmbient,"Genre: Glacial Ambient. No strict tempo. Frost-like harmonic clusters, airy reverbs, and shimmering granular motion.",,"cluster;reverb;granular","frosted","slow","yes"
+P387,GlacialAmbient,"Genre: Glacial Ambient. Tempo: 50 BPM. Minimal icy pads, distant metallic echoes, and slow frozen soundscapes.",50,"pad;metallic_echo;ambience","frozen","slow","yes"
+
+P388,ArcticChoir,"Genre: Arctic Choir. No strict tempo. Frozen choral clusters, glassy overtone pads, deep icy drones, and spacious polar ambience.",,"choir;pad;drone","glacial","long_form","yes"
+P389,ArcticChoir,"Genre: Arctic Choir. Tempo: 52 BPM. Whisper-like choir textures, frozen harmonic swells, and minimal percussive frost tones.",52,"choir;swells;fx","frozen","slow","yes"
+P390,ArcticChoir,"Genre: Arctic Choir. No strict tempo. Ethereal vowel washes, cold reverb halos, and subtle crystalline textures.",,"vowel;reverb;crystal","ethereal","long_form","yes"
+
+P391,AfroPsychedelic,"Genre: Afro-Psychedelic. Tempo: 118 BPM. Psychedelic guitars, polyrhythmic percussion, warm analog synths, and tribal groove fusion.",118,"guitar;perc;synth","psychedelic","verse-chorus","no"
+P392,AfroPsychedelic,"Genre: Afro-Psychedelic. Tempo: 112 BPM. Hypnotic chant motifs, hand drums, ambient pads, and swirling melodic motion.",112,"chant;drums;pad","hypnotic","loop","no"
+P393,AfroPsychedelic,"Genre: Afro-Psychedelic. Tempo: 124 BPM. Energetic funk-inspired Afro groove with wah guitars, rolling rhythms, and colorful textures.",124,"wah_guitar;perc;texture","groovy","chorus","no"
+
+P394,MartialEpic,"Genre: Martial Epic. Tempo: 140 BPM. War drums, deep taiko hits, commanding brass, and heavy cinematic battlefield energy.",140,"taiko;brass;fx","epic","build-drop","no"
+P395,MartialEpic,"Genre: Martial Epic. Tempo: 132 BPM. March-like percussion, orchestral rhythm guitars, and triumphant horn patterns.",132,"perc;guitar;brass","triumphant","verse-chorus","no"
+P396,MartialEpic,"Genre: Martial Epic. Tempo: 148 BPM. Dark cinematic pulses, heavy low drums, sharp stabs, and tension-driven war motifs.",148,"drums;pulse;stab","tense","loop","no"
+
+P397,DigitalBossa,"Genre: Digital Bossa. Tempo: 92 BPM. Bossa nova guitar chords fused with soft electronic percussion and warm synth textures.",92,"guitar;perc;synth","warm","verse-chorus","yes"
+P398,DigitalBossa,"Genre: Digital Bossa. Tempo: 88 BPM. Airy pads, brushed electronic drums, mellow bass, and gentle tropical harmonic flow.",88,"pad;drums;bass","tropical","loop","yes"
+P399,DigitalBossa,"Genre: Digital Bossa. Tempo: 96 BPM. Lush melodic motifs, smooth digital shakers, and soft lounge-style ambience.",96,"melody;shaker;pad","lounge","verse","yes"
+
+P400,ElectroDidgeridoo,"Genre: Electro Didgeridoo. Tempo: 110 BPM. Deep didgeridoo drones blended with electronic bass pulses, tribal percussion, and modern FX.",110,"didgeridoo;bass;perc","tribal","loop","no"
+P401,ElectroDidgeridoo,"Genre: Electro Didgeridoo. Tempo: 105 BPM. Atmospheric didgeridoo textures with soft pads and evolving rhythmic electronics.",105,"didgeridoo;pad;fx","ambient","long_form","no"
+P402,ElectroDidgeridoo,"Genre: Electro Didgeridoo. Tempo: 116 BPM. High-energy fusion with rhythmic throat-drone patterns, digital percussion, and bright synth accents.",116,"drone;perc;synth","energetic","verse-chorus","no"
+
+P403,AnimePopRock,"Genre: Anime Pop Rock. Tempo: 160 BPM. Energetic power chords, bright pop vocals, upbeat drums, and emotional melodic hooks.",160,"guitar;drums;vocals","energetic","chorus","yes"
+P404,AnimePopRock,"Genre: Anime Pop Rock. Tempo: 154 BPM. Fast-paced pop-rock with synth accents, soaring leads, and bright heroic chord progressions.",154,"lead;synth;chords","heroic","verse-chorus","yes"
+P405,AnimePopRock,"Genre: Anime Pop Rock. Tempo: 168 BPM. High-intensity anime-style rock with driving drums, catchy riffs, and emotional climactic lifts.",168,"drums;riff;lead","climactic","hook","yes"
+P406,PostSovietWave,"Genre: Post-Soviet Wave. Tempo: 112 BPM. Cold analog pads, nostalgic Slavic melodies, minimal drum patterns, and urban post-industrial texture.",112,"pad;melody;drums;texture","nostalgic","loop","no"
+P407,PostSovietWave,"Genre: Post-Soviet Wave. Tempo: 118 BPM. Gritty synth bass, reverbed vocals, metallic percussion, and Eastern harmonic flavor.",118,"bass;vocals;perc","gritty","verse-chorus","no"
+P408,PostSovietWave,"Genre: Post-Soviet Wave. Tempo: 108 BPM. Lo-fi tape saturation, melancholy chord progressions, and faded retro synth leads.",108,"chords;tape;lead","melancholic","loop","no"
+
+P409,AndeanElectronic,"Genre: Andean Electronic. Tempo: 104 BPM. Pan flute motifs, digital percussion, airy pads, and modern Andean fusion rhythms.",104,"flute;perc;pad","fusion","verse-chorus","yes"
+P410,AndeanElectronic,"Genre: Andean Electronic. Tempo: 98 BPM. Charango-pluck patterns blended with soft electronic beats and warm ambient textures.",98,"charango;beats;texture","warm","loop","yes"
+P411,AndeanElectronic,"Genre: Andean Electronic. Tempo: 110 BPM. High-altitude atmospheric pads, bright folk melodies, and smooth electronic basslines.",110,"pad;melody;bass","uplifting","loop","yes"
+
+P412,DesiSynthwave,"Genre: Desi Synthwave. Tempo: 126 BPM. Retro synth arps fused with Indian percussion and nostalgic Bollywood-style melodic lines.",126,"arp;perc;melody","retro-fusion","loop","no"
+P413,DesiSynthwave,"Genre: Desi Synthwave. Tempo: 118 BPM. Shimmering synth pads, tabla-inspired rhythms, and warm 80s-style chord movements.",118,"pad;tabla;chords","shimmer","verse-chorus","no"
+P414,DesiSynthwave,"Genre: Desi Synthwave. Tempo: 132 BPM. Energetic retro drums, Hindustani-style vocal chops, bass arps, and neon-inspired leads.",132,"drums;vocal_chop;bass_arp","energetic","hook","yes"
+
+P415,TribalTechno,"Genre: Tribal Techno. Tempo: 126 BPM. Driving techno kick, tribal percussion, hypnotic chants, and deep rhythmic build.",126,"kick;perc;chant","tribal","loop","no"
+P416,TribalTechno,"Genre: Tribal Techno. Tempo: 128 BPM. Dense drum patterns, resonant toms, and atmospheric techno textures with ritualistic energy.",128,"drums;toms;texture","ritual","build","no"
+P417,TribalTechno,"Genre: Tribal Techno. Tempo: 124 BPM. Minimal techno groove blended with ceremonial percussion and syncopated rhythmic pulses.",124,"perc;pulse;fx","ceremonial","loop","no"
+
+P418,CosmicSoul,"Genre: Cosmic Soul. Tempo: 96 BPM. Warm Rhodes chords, soulful vocals, spacey pads, and floating cosmic harmonies.",96,"rhodes;vocals;pad","spacious","verse-chorus","yes"
+P419,CosmicSoul,"Genre: Cosmic Soul. Tempo: 88 BPM. Deep bass grooves, soft guitar lines, dreamy reverb layers, and soulful melodic phrasing.",88,"bass;guitar;reverb","dreamy","loop","yes"
+P420,CosmicSoul,"Genre: Cosmic Soul. Tempo: 102 BPM. Bright soul progressions, airy synth atmospheres, gentle percussion, and cosmic shimmer textures.",102,"chords;pad;perc","shimmer","chorus","yes"
+
+P421,ElectroFlamenco,"Genre: Electro Flamenco. Tempo: 118 BPM. Flamenco guitar, palmas claps, electronic percussion, and modern fusion leads.",118,"guitar;palmas;perc;lead","fusion","verse-chorus","no"
+P422,ElectroFlamenco,"Genre: Electro Flamenco. Tempo: 124 BPM. Hybrid electronic bassline, rasgueado textures, and warm Mediterranean motifs.",124,"bass;guitar;texture","mediterranean","loop","no"
+P423,ElectroFlamenco,"Genre: Electro Flamenco. Tempo: 112 BPM. Atmospheric pads, soulful flamenco phrasings, and textured digital percussion.",112,"pad;guitar;perc","expressive","loop","no"
+P424,AltaicFolk,"Genre: Altaic Folk. Tempo: 92 BPM. Morin-khuur strings, throat-singing textures, hand drums, and windswept steppe-style melodies.",92,"morin_khuur;vocals;drums;melody","ancestral","verse-chorus","no"
+P425,AltaicFolk,"Genre: Altaic Folk. Tempo: 98 BPM. Deep overtone drones, bowed string harmonics, and rustic folk rhythmic phrasing.",98,"drone;harmonics;perc","rustic","loop","no"
+P426,AltaicFolk,"Genre: Altaic Folk. Tempo: 88 BPM. Nomadic flute patterns, earthy drum accents, and reflective mountain-folk resonance.",88,"flute;drums;pad","reflective","verse","no"
+
+P427,DigitalZydeco,"Genre: Digital Zydeco. Tempo: 120 BPM. Electronic accordion leads, syncopated Creole rhythms, and upbeat festival energy.",120,"accordion;perc;lead","festive","verse-chorus","yes"
+P428,DigitalZydeco,"Genre: Digital Zydeco. Tempo: 126 BPM. Bright rhythmic claps, synthetic washboard textures, and warm Louisiana-inspired motifs.",126,"clap;washboard;synth","bright","loop","yes"
+P429,DigitalZydeco,"Genre: Digital Zydeco. Tempo: 115 BPM. Fusion of Cajun melodic lines with digital drum grooves and lively harmonic movement.",115,"melody;drums;harmonies","lively","chorus","yes"
+
+P430,PacificChant,"Genre: Pacific Chant. Tempo: 78 BPM. Polynesian-style choral chants, oceanic percussion, and deep resonant drums.",78,"chant;drums;perc","tribal","sectional","yes"
+P431,PacificChant,"Genre: Pacific Chant. Tempo: 84 BPM. Layered island harmonies, wooden percussion, and gentle ambient swell textures.",84,"vocals;wood_perc;pad","warm","loop","yes"
+P432,PacificChant,"Genre: Pacific Chant. Tempo: 72 BPM. Low unison chant drones, minimal rhythmic accents, and natural oceanic ambience.",72,"vocal_drone;perc;ambience","meditative","long_form","yes"
+
+P433,NeoBollywoodEDM,"Genre: Neo Bollywood EDM. Tempo: 128 BPM. Modern EDM drops fused with Bollywood strings, vocal runs, and bright cinematic energy.",128,"strings;vocals;drums","cinematic","drop","yes"
+P434,NeoBollywoodEDM,"Genre: Neo Bollywood EDM. Tempo: 132 BPM. Hindi vocal chops, punchy festival percussion, and lush pop chord movements.",132,"vocal_chop;drums;chords","festive","verse-chorus","yes"
+P435,NeoBollywoodEDM,"Genre: Neo Bollywood EDM. Tempo: 124 BPM. Emotional Indian melodies layered with EDM pads, bright builds, and crisp snares.",124,"melody;pad;snare","emotional","build","yes"
+
+P436,MythicNordic,"Genre: Mythic Nordic. Tempo: 90 BPM. Viking drums, bowed lyre, deep male chants, and cold atmospheric pads.",90,"drums;lyre;chant;pad","mythic","verse","no"
+P437,MythicNordic,"Genre: Mythic Nordic. Tempo: 82 BPM. Ancient Nordic tonal patterns, icy reverb layers, and primal rhythmic pulses.",82,"melody;reverb;pulse","primal","loop","no"
+P438,MythicNordic,"Genre: Mythic Nordic. Tempo: 96 BPM. Heroic folk motifs with warlike chants, rustic percussion, and open frozen ambience.",96,"vocals;perc;ambience","heroic","chorus","no"
+
+P439,NavajoFusion,"Genre: Navajo Fusion. Tempo: 74 BPM. Traditional chants, frame drum rhythms, soft ambient pads, and desert-tone textures.",74,"chant;drum;pad;texture","sacred","long_form","yes"
+P440,NavajoFusion,"Genre: Navajo Fusion. Tempo: 68 BPM. Deep vocal drones, hand percussion, and atmospheric harmonic shimmer.",68,"drone;perc;shimmer","ancestral","slow","yes"
+P441,NavajoFusion,"Genre: Navajo Fusion. Tempo: 80 BPM. Rhythmic chant phrases blended with modern bass tones and ambient echo trails.",80,"vocals;bass;fx","ceremonial","loop","yes"
+P442,GamelanElectronica,"Genre: Gamelan Electronica. Tempo: 100 BPM. Metallic tuned percussion patterns inspired by gamelan, layered with warm synth pads, sidechained bass pulses, and subtle electronic beats.",100,"metalic_perc;pad;bass;beat","hypnotic","loop","no"
+P443,GamelanElectronica,"Genre: Gamelan Electronica. Tempo: 94 BPM. Interlocking metallophone motifs, soft ambient drones, digital glitch accents, and mellow sub-bass.",94,"metallophone;drone;glitch;sub_bass","meditative","sectional","no"
+P444,GamelanElectronica,"Genre: Gamelan Electronica. Tempo: 106 BPM. Fast interlocking percussion, bright tuned bells, pulsating synth arps, and tropical electronic textures.",106,"bells;arp;perc;pad","bright","verse-chorus","no"
+
+P445,CelticDream,"Genre: Celtic Dream. Tempo: 78 BPM. Lush harp arpeggios, soft uilleann pipes, warm strings, and misty ambient pads for an ethereal folk atmosphere.",78,"harp;uilleann_pipe;strings;pad","ethereal","long_form","yes"
+P446,CelticDream,"Genre: Celtic Dream. Tempo: 84 BPM. Gentle bodhrán pulse, fingerpicked acoustic guitar, subtle vocal harmonies, and shimmering reverb textures.",84,"bodhran;guitar;vocals;reverb","nostalgic","verse-chorus","yes"
+P447,CelticDream,"Genre: Celtic Dream. Tempo: 72 BPM. Slow modal melodies, soft flute lines, warm drones, and intimate chamber-like ambience.",72,"flute;drone;pad;melody","intimate","slow","no"
+
+P448,NomadicThroat,"Genre: Nomadic Throat. Tempo: 68 BPM. Deep overtone singing, sparse string drones, wooden percussion, and wide desert-like reverb for ancient, ritual textures.",68,"overtone;drone;wood_perc;reverb","ritual","long_form","yes"
+P449,NomadicThroat,"Genre: Nomadic Throat. Tempo: 74 BPM. Rhythmic throat chant phrases, bowed string pulses, soft percussive breaths, and distant horn motifs.",74,"chant;bowed_string;breath;horn","ancestral","loop","no"
+P450,NomadicThroat,"Genre: Nomadic Throat. Tempo: 80 BPM. Melodic overtone calls, ambient drone beds, light hand percussion, and expansive steppe ambience.",80,"overtone;pad;hand_perc;ambience","expansive","verse-chorus","no"
