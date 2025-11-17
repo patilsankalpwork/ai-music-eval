@@ -135,3 +135,16 @@ P114,Trance,"Genre: Trance. Tempo: 140 BPM. Classic trance vibe with gated pads,
 
 P115,Minimal,"Genre: Minimal. Tempo: 123 BPM. Sparse percussion, tight kick, soft sub pulses, and repetitive hypnotic synth patterns.",123,"perc;kick;sub_pulse;synth_pattern","hypnotic","loop","no"
 P116,Minimal,"Genre: Minimal. Tempo: 125 BPM. Clean tech-minimal texture with subtle clicks, warm pad swells, and microgroove rhythm.",125,"click_perc;pad;microgroove","clean","loop","no"
+P117,Minimal,"Genre: Minimal. Tempo: 128 BPM. Dry percussive hits, steady kick pattern, subtle bass pulses, and evolving micro-textures.",128,"perc;kick;micro_texture;bass_pulse","subtle","loop","no"
+
+P118,Moombahton,"Genre: Moombahton. Tempo: 108 BPM. Heavy dembow rhythm, bright synth plucks, deep bass, and energetic Caribbean-influenced groove.",108,"dembow;pluck;bass;synth","energetic","verse-chorus","no"
+P119,Moombahton,"Genre: Moombahton. Tempo: 110 BPM. Warm reggaeton-house fusion with filtered chords, shakers, and upbeat drums.",110,"filtered_chords;shaker;drums;bass","uplifting","loop","no"
+P120,Moombahton,"Genre: Moombahton. Tempo: 105 BPM. Dark-toned moombah groove with detuned leads, heavy sub, and minimal percussion.",105,"detuned_lead;sub;perc","dark","loop","no"
+
+P121,Opera,"Genre: Opera. Tempo: 70 BPM. Dramatic orchestral textures with expressive strings, soft brass, and atmospheric choir layers.",70,"strings;brass;choir;perc","dramatic","crescendo","yes"
+P122,Opera,"Genre: Opera. Tempo: 60 BPM. Slow, emotional operatic bed with cello swells, choral pads, and resonant hall ambience.",60,"cello;choral_pad;ambience","emotional","slow","yes"
+P123,Opera,"Genre: Opera. Tempo: 78 BPM. Grand operatic arrangement featuring bold brass, sweeping strings, and subtle timpani rolls.",78,"brass;strings;timpani","grand","build","yes"
+
+P124,Chiptune,"Genre: Chiptune. Tempo: 140 BPM. Retro 8-bit synth arps, noisy percussion, square wave bass, and bright video-game textures.",140,"arp;square_bass;8bit_perc","retro","loop","no"
+P125,Chiptune,"Genre: Chiptune. Tempo: 130 BPM. Classic pixel-style melody lines with crunchy noise drums and upbeat rhythm.",130,"melody_8bit;noise_drums;bass","playful","loop","no"
+P126,Chiptune,"Genre: Chiptune. Tempo: 150 BPM. Fast-action game feel with rapid arps, pulse-wave chords, and driving chip bassline.",150,"arp_fast;pulse_chords;chip_bass","fast","loop","no"
