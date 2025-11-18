@@ -1,0 +1,45 @@
+{
+  "fields": [
+    {
+      "name": "prompt_id",
+      "type": "string",
+      "pattern": "^P\\d{3}$"
+    },
+    {
+      "name": "genre",
+      "type": "string"
+    },
+    {
+      "name": "description",
+      "type": "string"
+    },
+    {
+      "name": "tempo",
+      "type": [
+        "null",
+        "number"
+      ]
+    },
+    {
+      "name": "keywords",
+      "type": "string"
+    },
+    {
+      "name": "mood",
+      "type": "string"
+    },
+    {
+      "name": "structure",
+      "type": "string"
+    },
+    {
+      "name": "is_vocal",
+      "type": "string",
+      "enum": [
+        "yes",
+        "no"
+      ]
+    }
+  ],
+  "primaryKey": "prompt_id"
+}

@@ -1,0 +1,2 @@
+prompt_id,rater_id,genre_score,timbre_score,rhythmic_score,structural_score,melodic_score,production_score,cultural_score,vocal_score,composite_score,comments
+P001,ratertest,4,3,4,3,3,4,5,NA,0,"Sample row - replace with actual scores"
