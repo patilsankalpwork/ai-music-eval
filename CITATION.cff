@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset in your research, please cite it."
+title: "AI Music Evaluation Benchmark"
+version: "1.0.0"
+date-released: "2025-11-19"
+authors:
+  - family-names: "Patil"
+    given-names: "Sankalp"
+repository-code: "https://github.com/patilsankalpwork/ai-music-eval"
+license: "CC-BY-4.0"

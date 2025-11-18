@@ -1,3 +1,5 @@
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 # AI Music Evaluation Research
 
 This repository contains the full research workflow for evaluating an AI-powered

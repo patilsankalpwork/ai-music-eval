@@ -1,0 +1,9 @@
+metric,weight,description
+genre_recognition,0.20,"Genre label match (human-rated)"
+timbre_fidelity,0.15,"Presence and quality of specified timbres/instruments"
+rhythmic_adaptation,0.15,"Tempo and groove match"
+structural_correctness,0.10,"Structure matches prompt (loop/verse-drop/etc.)"
+melodic_harmonic,0.15,"Melodic and harmonic correctness"
+production_aesthetic,0.15,"Mixing, effects, and production choices"
+cultural_fidelity,0.05,"Respectful and idiomatic cultural usage"
+vocal_handling,0.05,"Only for vocal prompts; redistributed when not applicable"
